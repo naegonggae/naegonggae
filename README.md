@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab GitLab&logoColor=white" />
+
+
 
 </p>
 
@@ -25,7 +28,6 @@
 <br>
 
 
-### Hi there 👋
 
 <!--
 **naegonggae/naegonggae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
