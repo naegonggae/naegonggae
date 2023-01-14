@@ -22,9 +22,16 @@
 반갑습니다👐<br>
 제 이름은 이상훈이고 백엔드를 공부하고 있어요!<br>
 항상 배우려는 자세로 학습에 임하고 있습니다.<br>
-배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자입니다.
+배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자입니다.<br>
+
 </p>
 
+
+<div align=center>
+<h2><Strong></Strong><br></h2><br>
+📑 Velog : https://velog.io/@tkdtkd97<br>
+🦊 GitLab : https://gitlab.com/tkdtkd975<br>
+</div>
 <br>
 
 
