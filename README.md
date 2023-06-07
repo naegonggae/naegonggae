@@ -26,6 +26,12 @@
 
 </p>
 
+<div align=center>
+ <br>
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtkd97)](https://solved.ac/tkdtkd97/)
+
+ </div>
 
 <div align=center>
 <h2><Strong></Strong><br></h2><br>
@@ -33,6 +39,8 @@
 🦊 GitLab : https://gitlab.com/tkdtkd975<br>
 </div>
 <br>
+
+
 
 
 
