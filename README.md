@@ -42,6 +42,8 @@
 
 
 
+[이상훈-이력서.pdf](https://github.com/naegonggae/naegonggae/files/13050424/-.pdf)
+
 
 
 <!--
