@@ -39,10 +39,9 @@
 🦊 GitLab : https://gitlab.com/tkdtkd975<br>
 </div>
 <br>
-
-
-
-[이상훈-이력서.pdf](https://github.com/naegonggae/naegonggae/files/13050424/-.pdf)
+<div align="center">
+  <a href="https://github.com/naegonggae/naegonggae/files/13050424/-.pdf" target="_blank">포트폴리오 다운로드 (PDF)</a>
+</div>
 
 
 
