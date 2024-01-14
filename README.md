@@ -4,7 +4,7 @@
 <p>Position : Backend Developer</p>
 <br>
 
-<h2>Tech Stack ⚒️</h2>
+<h2>Tech Stack ⚙️</h2>
 <p display="inline-block">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
  <!--
