@@ -1,49 +1,31 @@
-<div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&'s%20GitHub%20Profile&descAlignY=51&descAlign=62)"/>
- <h2><Strong>⚒️Tech Stack⚒️</Strong><br></h2>
- </div>
+<h2>About me 🌳</h2>
+<p>Name : SangHun Lee</p>
+<p>Email : tkdtkd975@gmail.com</p>
+<p>Position : Backend Developer</p>
+<br>
 
-<p align="center" display="inline-block">
+<h2>Tech Stack ⚒️</h2>
+<p display="inline-block">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+ <!--
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab GitLab&logoColor=white" />
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+ -->
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab GitLab&logoColor=white" />
-
-
-
+    <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white">
 </p>
-
 <br>
-<p align="center">
-반갑습니다👐<br>
-<br>
-제 이름은 이상훈이고 백엔드를 공부하고 있습니다!<br>
 
-
-</p>
-
-<div align=center>
- <br>
+<h2>Algorithm 💡</h2>
+<div>
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtkd97)](https://solved.ac/tkdtkd97/)
 
  </div>
-
-<div align=center>
-<h2><Strong></Strong><br></h2><br>
-📑 Velog : https://velog.io/@tkdtkd97<br>
-🦊 GitLab : https://gitlab.com/tkdtkd975<br>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/naegonggae/naegonggae/files/13050424/-.pdf" target="_blank">포트폴리오 다운로드 (PDF)</a>
-</div>
-
-
 
 <!--
 **naegonggae/naegonggae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
